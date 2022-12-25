@@ -29,7 +29,12 @@
 <noscript>src = "js/script.js</noscript>
 
 
+<!-- Header section starts -->
 
+<section class="header">
+  <a href="home.php"></a>
+</section>
+<!-- Header Section Ends -->
 
 
 
